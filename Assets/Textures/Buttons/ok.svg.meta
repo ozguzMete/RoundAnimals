@@ -1,0 +1,45 @@
+fileFormatVersion: 2
+guid: 7a148f79b5b70b741b031d9b4f194819
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: gameObject/ok
+    400000: gameObject/ok/Transform
+    2800000: texAtlas
+    21200000: gameObject/ok/SpriteRenderer
+    21300000: sprite
+    100100000: gameObject
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: a57477913897c46af95d590f580878bd, type: 3}
+  SvgPixelsPerUnit: 100
+  GradientResolution: 128
+  Alignment: 3
+  CustomPivot: {x: 0, y: 0}
+  AdvancedMode: 0
+  PredefinedResolutionIndex: 1
+  TargetResolution: 1080
+  ResolutionMultiplier: 1
+  StepDistance: 10
+  SamplingStepDistance: 100
+  MaxCordDeviationEnabled: 0
+  MaxCordDeviation: 1
+  MaxTangentAngleEnabled: 0
+  MaxTangentAngle: 5
+  spriteData:
+    TessellationDetail: 0
+    SpriteRect:
+      name: exitSprite
+      originalName: 
+      pivot: {x: 1.0050875, y: 1.0050884}
+      alignment: 0
+      border: {x: 0, y: 0, z: 0, w: 0}
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 95
+        height: 95
+      spriteID: d45661c1689110746a8df6e4dd833ab6
+    PhysicsOutlines: []

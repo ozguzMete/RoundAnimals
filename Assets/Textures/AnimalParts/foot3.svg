@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   sodipodi:docname="turkey.svg"
+   viewBox="0 0 250 300"
+   sodipodi:version="0.32"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <defs
+     id="defs26" />
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     guidetolerance="10.0"
+     pagecolor="#ffffff"
+     gridtolerance="10.0"
+     inkscape:zoom="8.6755808"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     inkscape:current-layer="svg2"
+     inkscape:cx="69.288447"
+     inkscape:cy="250.48981"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="1017"
+     showgrid="false"
+     inkscape:pageopacity="0.0"
+     inkscape:window-width="1920"
+     inkscape:window-maximized="1" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 42.58146,30.258572 c -0.06867,10.57641 0.02575,21.1618 0.145922,31.7382 -8.223184,-1.13222 -16.429201,-3.46856 -24.626635,-4.18743 -4.592279,0.58408 -5.536486,8.285 -0.566524,9.12968 3.193136,1.17715 14.497869,1.37484 12.274691,3.10013 -7.03005,3.35174 -14.832634,5.43647 -21.5536713,9.22852 -3.613737,3.70219 1.407727,10.33379 5.7682473,7.42235 8.609451,-3.43261 17.141649,-7.08089 25.725349,-10.60336 -0.815452,4.89732 -4.944212,9.47114 -4.077258,14.49426 1.871247,5.07703 8.458633,3.643942 10.111599,-1.87805 2.163092,-5.8678 4.120176,-11.81646 6.223182,-17.69324 7.699579,-3.58538 16.053236,-6.06548 23.524488,-9.93841 3.739915,-3.02825 0.627469,-9.79463 -4.02318,-8.15021 -6.368247,2.39025 -12.642932,5.18487 -18.909033,7.75483 C 52.41838,48.302262 52.426963,35.892732 52.461298,23.582052 49.11143,6.1767386 42.108082,22.319382 42.58146,30.258572 Z"
+     style="fill:#ff7400;fill-rule:evenodd;stroke:#000000;stroke-width:2.5626452;stroke-linecap:round"
+     id="path4112"
+     sodipodi:nodetypes="cccccccccccccccc" />
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Turkey-RoundCartoon</dc:title>
+        <dc:date>2009-05-14T16:34:30</dc:date>
+        <dc:description>lemmling's cow base; pitr's chicken beak and feet</dc:description>
+        <dc:source>https://openclipart.org/detail/26015/turkey-roundcartoon-by-bloodsong</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>bloodsong</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>animal</rdf:li>
+            <rdf:li>bird</rdf:li>
+            <rdf:li>cartoon</rdf:li>
+            <rdf:li>colour</rdf:li>
+            <rdf:li>fowl</rdf:li>
+            <rdf:li>outline</rdf:li>
+            <rdf:li>remix</rdf:li>
+            <rdf:li>turkey</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   sodipodi:docname="pig 2.svg"
+   viewBox="0 0 250 300"
+   sodipodi:version="0.32"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <defs
+     id="defs31" />
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     guidetolerance="10.0"
+     pagecolor="#ffffff"
+     gridtolerance="10.0"
+     inkscape:zoom="1.5336405"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     inkscape:current-layer="g4340"
+     inkscape:cx="30.742107"
+     inkscape:cy="194.02752"
+     inkscape:window-y="-4"
+     inkscape:window-x="52"
+     inkscape:window-height="701"
+     showgrid="false"
+     inkscape:pageopacity="0.0"
+     inkscape:window-width="1224"
+     inkscape:window-maximized="0" />
+  <g
+     id="g4340"
+     inkscape:export-ydpi="87.989998"
+     inkscape:export-xdpi="87.989998"
+     inkscape:export-filename="C:\D\GFX\Inkscape\InkscapeWORK\PIGicon.png"
+     transform="matrix(0.89043,0,0,0.93074,500.35,38.324)">
+    <path
+       id="path4250"
+       style="fill:#ffaaaa;stroke:#000000;stroke-width:2.70000005;stroke-linecap:round;stroke-linejoin:round"
+       d="m -376.68023,220.59465 c 0.01,15.52 -15.87,28.1 -35.46,28.1 -19.6,0 -35.48,-12.58 -35.47,-28.1 -0.01,-15.516 15.87,-28.098 35.47,-28.098 19.59,0 35.47,12.582 35.46,28.098 z"
+       inkscape:connector-curvature="0" />
+  </g>
+  <metadata
+     id="metadata28">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Pig-RoundCartoon</dc:title>
+        <dc:date>2009-05-14T16:30:50</dc:date>
+        <dc:description>lemmling's cow, recoloured; kattekrab's pig tail; linuxian's pig head as source</dc:description>
+        <dc:source>https://openclipart.org/detail/26011/pig-roundcartoon-by-bloodsong</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>bloodsong</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>animal</rdf:li>
+            <rdf:li>cartoon</rdf:li>
+            <rdf:li>colour</rdf:li>
+            <rdf:li>icon</rdf:li>
+            <rdf:li>outline</rdf:li>
+            <rdf:li>pig</rdf:li>
+            <rdf:li>remix</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

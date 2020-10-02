@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   sodipodi:docname="lock3.svg"
+   viewBox="0 0 717.61952 273.82362"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   width="717.61951"
+   height="273.82361">
+  <defs
+     id="defs21" />
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     inkscape:window-y="-8"
+     fit-margin-left="0"
+     pagecolor="#ffffff"
+     fit-margin-top="0"
+     inkscape:window-maximized="1"
+     inkscape:zoom="0.98994949"
+     inkscape:window-x="-8"
+     inkscape:window-height="1017"
+     showgrid="false"
+     borderopacity="1.0"
+     inkscape:current-layer="layer2"
+     inkscape:cx="557.70932"
+     inkscape:cy="243.68638"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:pageopacity="0.0"
+     inkscape:document-units="px" />
+  <g
+     id="layer2"
+     inkscape:label="lock3"
+     transform="translate(804.91138,-239.08872)">
+    <path
+       style="fill:#a1a1a1;fill-opacity:1;stroke:none"
+       d="m -193.48212,241.09874 c -39.73851,0.20417 -71.14798,41.11237 -65.88476,79.51759 0.0137,1.64883 0.0148,3.2982 0.0234,4.94727 h 27.66016 v -10.60156 c 0,-25.39823 17.12097,-45.84573 38.3867,-45.84573 21.26574,0 38.38477,20.44751 38.38477,45.84573 v 10.60156 h 27.43359 c -0.31496,-8.7052 -0.73665,-17.40714 -1.32617,-26.10547 -4.17983,-31.16366 -32.47548,-58.97473 -64.67773,-58.35939 z"
+       id="path4231-6-2-3-7-5"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#6f6f6f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3370-7-9-6-9-9"
+       width="215.16251"
+       height="193.3488"
+       x="-302.45435"
+       y="319.56354"
+       ry="33.715622"
+       rx="0" />
+    <path
+       style="fill:#b6b4b4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -125.23564,339.33875 c -41.00269,1.27817 -82.09432,-0.41543 -123.12878,0.48901 -9.91798,0.46388 -20.24746,-0.40783 -29.83411,2.18091 -10.13593,5.79218 -12.13084,18.79487 -10.17195,29.33371 0.84419,40.89393 -2.32297,74.18789 1.83797,114.74833 5.48943,10.74272 18.93427,12.80723 29.71854,10.89284 48.17106,-0.8928 96.65574,2.36621 144.57442,-1.84792 10.69484,-5.48259 12.82996,-18.94002 10.86726,-29.69703 -0.78157,-40.80332 2.17702,-73.95736 -1.72077,-114.46899 -3.78513,-8.31393 -13.45543,-12.14167 -22.14258,-11.63086 z"
+       id="rect3370-7-9-9-1-2-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc" />
+    <path
+       sodipodi:start="0"
+       sodipodi:end="3.1415927"
+       sodipodi:cx="-192.95093"
+       sodipodi:cy="429.53491"
+       d="m -137.48023,429.53491 a 55.470699,50.445156 0 0 1 -27.73535,43.68679 55.470699,50.445156 0 0 1 -55.4707,0 55.470699,50.445156 0 0 1 -27.73535,-43.68679 l 55.4707,0 z"
+       sodipodi:type="arc"
+       style="fill:#af5050;fill-opacity:1"
+       sodipodi:ry="50.445156"
+       sodipodi:rx="55.470699"
+       id="path3006-5-1-0-0-2" />
+    <path
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccsc"
+       d="m -153.70761,457.45538 c -2.8237,9.65012 -21.44184,19.2339 -39.43533,19.33988 -19.34679,0.11472 -36.48607,-11.87232 -40.17905,-19.33988 -3.53528,-2.09768 16.44289,-18.70635 37.70029,-19.33412 23.62765,-0.69866 45.74122,16.86451 41.91409,19.33412 z"
+       style="fill:#ffdcce"
+       id="path3008-3-2-6-2-8" />
+    <path
+       id="path2999-5-7-2-3-9"
+       style="fill:#333333;fill-opacity:1"
+       d="m -226.34947,400.77957 11.24803,3.9684 c 1.67144,0.4097 -5.78602,14.89773 -13.96248,14.57941 -7.86423,-0.30594 -14.25975,-8.19897 -14.25975,-18.31255 0,-10.1136 6.38753,-18.14305 14.25975,-18.31258 8.83752,-0.19092 15.17647,14.03226 13.88942,14.15092 z"
+       sodipodi:nodetypes="ccssscc"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path3002-6-0-6-7-7"
+       d="m -154.2664,400.78635 11.24773,3.96841 c 1.67146,0.4097 -5.78606,14.89715 -13.96285,14.57905 -7.8642,-0.30595 -14.25957,-8.19903 -14.25957,-18.31298 0,-10.11392 6.3875,-18.14297 14.25957,-18.31296 8.83771,-0.19092 15.17717,14.03311 13.88897,14.15141 z"
+       sodipodi:nodetypes="ccssscc"
+       style="fill:#333333;fill-opacity:1"
+       inkscape:connector-curvature="0" />
+  </g>
+  <metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title />
+        <dc:date>2012-10-12T20:58:36</dc:date>
+        <dc:description />
+        <dc:source>https://openclipart.org/detail/172727/giga-pudi--by-stilg4r-172727</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>stilg4r</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>smile</rdf:li>
+            <rdf:li>pudding</rdf:li>
+            <rdf:li>cute</rdf:li>
+            <rdf:li>kawaii</rdf:li>
+            <rdf:li>giggle</rdf:li>
+            <rdf:li>eat</rdf:li>
+            <rdf:li>self</rdf:li>
+            <rdf:li>cartoon</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

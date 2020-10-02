@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   sodipodi:docname="mouth.svg"
+   viewBox="0 0 717.61952 273.82362"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   width="717.61951"
+   height="273.82361">
+  <defs
+     id="defs21" />
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     inkscape:window-y="-8"
+     fit-margin-left="0"
+     pagecolor="#ffffff"
+     fit-margin-top="0"
+     inkscape:window-maximized="1"
+     inkscape:zoom="0.98994949"
+     inkscape:window-x="-8"
+     inkscape:window-height="1017"
+     showgrid="false"
+     borderopacity="1.0"
+     inkscape:current-layer="layer2"
+     inkscape:cx="67.785334"
+     inkscape:cy="297.22447"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:pageopacity="0.0"
+     inkscape:document-units="px" />
+  <g
+     id="layer2"
+     inkscape:label="mouth"
+     inkscape:groupmode="layer"
+     transform="translate(804.91138,-239.08872)">
+    <path
+       sodipodi:start="0"
+       sodipodi:end="3.1415927"
+       sodipodi:cx="-695.40796"
+       sodipodi:cy="429.53491"
+       d="m -639.93726,429.53491 a 55.470699,50.445156 0 0 1 -27.73535,43.68679 55.470699,50.445156 0 0 1 -55.4707,0 55.470699,50.445156 0 0 1 -27.73535,-43.68679 l 55.4707,0 z"
+       sodipodi:type="arc"
+       style="fill:#af5050;fill-opacity:1"
+       sodipodi:ry="50.445156"
+       sodipodi:rx="55.470699"
+       id="path3006-5-1-0" />
+    <path
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccsc"
+       d="m -656.16463,457.45538 c -2.8237,9.65012 -21.44184,19.2339 -39.43533,19.33988 -19.34679,0.11472 -36.48607,-11.87232 -40.17905,-19.33988 -3.53528,-2.09768 16.44289,-18.70635 37.70029,-19.33412 23.62765,-0.69866 45.74122,16.86451 41.91409,19.33412 z"
+       style="fill:#ffdcce"
+       id="path3008-3-2-6" />
+  </g>
+  <metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title />
+        <dc:date>2012-10-12T20:58:36</dc:date>
+        <dc:description />
+        <dc:source>https://openclipart.org/detail/172727/giga-pudi--by-stilg4r-172727</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>stilg4r</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>smile</rdf:li>
+            <rdf:li>pudding</rdf:li>
+            <rdf:li>cute</rdf:li>
+            <rdf:li>kawaii</rdf:li>
+            <rdf:li>giggle</rdf:li>
+            <rdf:li>eat</rdf:li>
+            <rdf:li>self</rdf:li>
+            <rdf:li>cartoon</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

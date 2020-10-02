@@ -1,0 +1,55 @@
+fileFormatVersion: 2
+guid: 4eafeeeaba777544aa0682d1457d8403
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: gameObject/mainLayer4Center
+    400000: gameObject/mainLayer4Center/Transform
+    21200000: gameObject/mainLayer4Center/SpriteRenderer
+    21300000: sprite
+    100100000: gameObject
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: a57477913897c46af95d590f580878bd, type: 3}
+  svgType: 0
+  texturedSpriteMeshType: 0
+  svgPixelsPerUnit: 10
+  gradientResolution: 128
+  alignment: 7
+  customPivot: {x: 0, y: 0}
+  generatePhysicsShape: 0
+  preserveViewport: 0
+  advancedMode: 0
+  predefinedResolutionIndex: 1
+  targetResolution: 1080
+  resolutionMultiplier: 1
+  stepDistance: 10
+  samplingStepDistance: 100
+  maxCordDeviationEnabled: 0
+  maxCordDeviation: 1
+  maxTangentAngleEnabled: 0
+  maxTangentAngle: 5
+  keepTextureAspectRatio: 1
+  textureSize: 256
+  textureWidth: 256
+  textureHeight: 256
+  wrapMode: 0
+  filterMode: 1
+  sampleCount: 4
+  spriteData:
+    TessellationDetail: 0
+    SpriteRect:
+      name: mainLayer4CenterSprite
+      originalName: 
+      pivot: {x: 0.5008187, y: 0.499746}
+      alignment: 0
+      border: {x: 0, y: 0, z: 0, w: 0}
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 169
+        height: 78
+      spriteID: 65e885683ecec1048ab421c32ae4c0b1
+    PhysicsOutlines: []

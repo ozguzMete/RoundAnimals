@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg4642"
+   viewBox="0 0 1409.9 1084.7"
+   sodipodi:docname="air.svg"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <title
+     id="title7115">Kilimanjaro</title>
+  <defs
+     id="defs4644">
+    <linearGradient
+       id="linearGradient7127"
+       y2="1070.0173"
+       gradientUnits="userSpaceOnUse"
+       x2="705.9613"
+       y1="-771.48"
+       x1="700.21"
+       inkscape:collect="always">
+      <stop
+         id="stop7121"
+         style="stop-color:#2c71de"
+         offset="0" />
+      <stop
+         id="stop7123"
+         style="stop-color:#ffdead"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4646"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     inkscape:window-y="-8"
+     pagecolor="#ffffff"
+     inkscape:window-height="1017"
+     inkscape:window-maximized="1"
+     inkscape:zoom="0.86831672"
+     inkscape:window-x="-8"
+     showgrid="false"
+     borderopacity="1.0"
+     inkscape:current-layer="svg4642"
+     inkscape:cx="604.56227"
+     inkscape:cy="788.08804"
+     units="mm"
+     inkscape:window-width="1920"
+     inkscape:pageopacity="0.0"
+     inkscape:document-units="mm" />
+  <g
+     id="layer1"
+     inkscape:label="air"
+     transform="translate(-9.8694,479.45)">
+    <rect
+       id="rect5226"
+       style="fill:url(#linearGradient7127);stroke-width:0"
+       height="1022.6"
+       width="1385.4"
+       y="-479.45001"
+       x="15.936" />
+  </g>
+  <metadata
+     id="metadata677">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Kilimanjaro</dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
